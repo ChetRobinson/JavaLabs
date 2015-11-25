@@ -1,2 +1,2 @@
 This is a test
-Added more text to change this file. If you should for fork this file or syn it during class this week. 
+Added more text to change this file. If you should fork this file or syn it during class this week. 
