@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Piano()
+comment0.text=\r\n\ Make\ the\ piano.\ This\ means\ mostly,\ apart\ from\ defining\ the\ size,\r\n\ making\ the\ keys\ and\ placing\ them\ into\ the\ world.\r\n
+comment1.params=
+comment1.target=void\ makeKeys()
+comment1.text=\r\n\ Create\ the\ black\ and\ white\ piano\ keys\ and\ place\ them\ in\ the\ world.\r\n
+numComments=2
