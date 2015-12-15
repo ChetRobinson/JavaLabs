@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RedCell()
+comment0.text=\r\n\ Contructor\:\ Initialise\ the\ floating\ speed\ to\ a\ random\ value.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Float\ along,\ right\ to\ left.\ Disappear\ when\ reaching\ the\ left\ edge.\r\n
+numComments=2
