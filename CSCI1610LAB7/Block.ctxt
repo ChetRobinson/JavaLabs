@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Move\ across\ the\ screen,\ bounce\ off\ edges.\ Turn\ leaves,\ if\ we\ touch\ any.\r\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\r\n\ Move\ sideways,\ either\ left\ or\ right.\r\n
+comment2.params=
+comment2.target=void\ checkEdge()
+comment2.text=\r\n\ Check\ whether\ we\ are\ at\ the\ edge\ of\ the\ screen.\ If\ we\ are,\ turn\ around.\r\n
+comment3.params=
+comment3.target=void\ checkMouseClick()
+comment3.text=\r\n\ Check\ whether\ the\ mouse\ button\ was\ clicked.\ If\ it\ was,\ change\ all\ leaves.\r\n
+comment4.params=
+comment4.target=void\ checkLeaf()
+comment4.text=\r\n\ Check\ whether\ we're\ touching\ a\ leaf.\ If\ we\ are,\ turn\ it\ a\ bit.\r\n
+numComments=5

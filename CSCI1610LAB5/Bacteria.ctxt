@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bacteria()
+comment0.text=\r\n\ Constructor\:\ Initialise\ the\ speed\ to\ a\ somewhat\ random\ value.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Float\ along\ the\ bloodstream,\ slowly\ rotating.\r\n
+numComments=2
